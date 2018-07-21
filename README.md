@@ -7,5 +7,5 @@ Like any selenium project, the performance of the program depends on the machine
 
 The chromedriver used in this project is v 2.4 which supports Chrome v66-68. In the future a more recent version of chromedriver may be needed. 
 
-## License: 
+## Copyright: 
 I made this myself and am fine with anyone improving it or using it. I'd love to hear your thoughts on the project! 
