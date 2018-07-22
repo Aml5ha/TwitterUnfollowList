@@ -1,3 +1,4 @@
+#Made by Arman Lokhandwala 07/2018
 import os.path
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
